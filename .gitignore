@@ -1,0 +1,11 @@
+# .gitignore
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.env.old
+*.log
+data/  
+docker-compose.yml  
