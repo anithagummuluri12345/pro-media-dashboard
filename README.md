@@ -1,23 +1,3 @@
-# ![Header](./h.png)
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pro-media-dashboard.streamlit.app/)
-<br>
-🌐 **[LIVE DEMO: Access ProMedia Insight Hub](https://pro-media-dashboard.streamlit.app/)**
-
-> **Note:**  
-> Currently, the dashboard interface and all features are **available in Indonesian only**.  
-> For bilingual (English/Indonesian) support, feel free to fork or contribute!
-
----
-
-## 🚀 Live Demo
-
-Try the dashboard instantly:  
-[https://pro-media-dashboard.streamlit.app/](https://pro-media-dashboard.streamlit.app/)
-
-- **Default admin login:**  
-  - Username: `admin`  
-  - Password: `admin123`
 
 ---
 
@@ -182,19 +162,3 @@ You can easily adapt the setup for your own VPS or cloud server that supports Do
 
 ---
 
-## 👤 Developer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafifsudanta-blue?logo=linkedin)](https://www.linkedin.com/in/rafif-sudanta/)
-[![Email](https://img.shields.io/badge/Email-rafifsudanta1%40gmail.com-red?logo=gmail)](mailto:rafifsudanta1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-r1afif18%2Fpro--media--dashboard-black?logo=github)](https://github.com/r1afif18/pro-media-dashboard)
-
-Developed by **Rafif Sudanta**
-
-> For collaboration, joint projects, or dashboard & AI consulting, feel free to connect via [LinkedIn](https://www.linkedin.com/in/rafif-sudanta/) or [email](mailto:rafifsudanta1@gmail.com).
----
-
-## 📝 License
-
-MIT License 
-
----
